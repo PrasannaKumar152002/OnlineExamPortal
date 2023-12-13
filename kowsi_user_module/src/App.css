@@ -1,0 +1,122 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+} */
+
+/* .App {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+} */
+
+/* .nav {
+  height: 60px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+  color: white;
+  z-index: 2; 
+}
+
+.nav h2 {
+  cursor: pointer;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.nav i.bi {
+  font-size: 23px;
+  color: white;
+  cursor: pointer;
+}
+
+.nav ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav ul li {
+  cursor: pointer;
+}
+
+.sidebar-container {
+  background-color: black;
+  color: white;
+  height: 100vh;
+  width: 250px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  flex-shrink: 0;
+
+.sidebar-container::-webkit-scrollbar {
+  display: none;
+}
+
+.nav-option {
+  display: flex;
+  align-items: center;
+  padding: 0px 0px 0px 30px;
+  gap: 20px;
+  width: 250px;
+}
+
+.nav-option i.bi {
+  color: white;
+}
+
+.nav-option:hover,
+.nav-option:hover i.bi {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.nav-option i.bi {
+  color: white;
+  font-size: 20px;
+} */
+
+/* .navCollaps {
+  width: 80px;
+}
+
+.navCollaps .nav-option h3 {
+  display: none;
+}
+
+.navCollaps .nav-option {
+  padding: 28px;
+}
+
+@media screen and (min-width: 768px) {
+  .navCollaps {
+    width: 80px;
+  }
+
+  .navCollaps .nav-option h3 {
+    display: none;
+  }
+
+  .navCollaps .nav-option {
+    padding: 28px;
+  }
+
+  .App {
+    flex-direction: row;
+  }
+} */
+/* .logo img{
+  width: 160px;
+  } */
+  /* .list-group{
+   height: 900px;
+  } */
